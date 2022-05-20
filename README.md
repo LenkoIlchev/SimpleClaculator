@@ -1,2 +1,2 @@
 # SimpleClaculator
-Simple calculator
+Simple calculator - Add, Subtract, Multiply, Division
