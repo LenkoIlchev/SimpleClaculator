@@ -1,2 +1,3 @@
 # SimpleClaculator
-Simple calculator - Add, Subtract, Multiply, Division
+Simple calculator - Used Swing and AWT. No JPanels or Layouts. 
+Only Add, Subtract, Multiply, Division.
